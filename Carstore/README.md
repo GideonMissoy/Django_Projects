@@ -1,0 +1,1 @@
+This directry explores a carstore project using Django.
